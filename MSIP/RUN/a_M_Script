@@ -1,0 +1,5 @@
+#! /bin/bash
+#xterm -e 
+ echo -e   "\vRunning script\v"
+
+/home/pi/RUN/msip0_9_2
